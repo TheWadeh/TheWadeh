@@ -1,8 +1,25 @@
-- 👋 Hi, this is AJ
-- 💞️ I’m looking to collaborate on an open source projects
-- 📫 How to reach me https://t.me/The_Wadeh
-- ⚡ Fun fact: I like Reading and Making Podcasts
-- [ Check out my Podcast : https://wadeh-reminders.netlify.app ]
+### Hi there, I'm AJ! 👋
+
+- 💻 Software Engineer
+- 🌐 Open Source Contributor
+
+  ### About Me
+
+- 👨‍💻 Full-stack developer with a passion for clean and efficient code.
+- 💻 Pursuing Software Engineering at a Campus
+- 📚 Always learning and exploring new technologies.
+
+### Contact Me
+
+- 📫 Email: abdulfetahjemal7se@gmail.com
+- 💬 Telegram: https://t.me/The_Wadeh
+
+  
+### Fun Facts
+
+- ⚡ Fun fact: Besides Tech, I enjoy reading books and creating podcasts.
+- 🎙️ Check out my podcasts at [wadeh-reminders.netlify.app](https://wadeh-reminders.netlify.app).
+
 
   ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
