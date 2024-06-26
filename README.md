@@ -3,7 +3,7 @@
 - 💻 Software Engineer
 - 🌐 Open Source Contributor
 
-  ### About Me
+### About Me
 
 - 👨‍💻 Full-stack developer with a passion for clean and efficient code.
 - 💻 Pursuing Software Engineering at a Campus
