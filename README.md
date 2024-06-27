@@ -5,14 +5,12 @@
 
 ### About Me
 
-- 👨‍💻 Full-stack developer with a passion for clean and efficient code.
 - 💻 Pursuing Software Engineering at a Campus
 - 📚 Always learning and exploring new technologies.
 
 ### Contact Me
 
 - 📫 Email: abdulfetahjemal7se@gmail.com
-- 💬 Telegram: https://t.me/The_Wadeh
 
   
 ### Fun Facts
