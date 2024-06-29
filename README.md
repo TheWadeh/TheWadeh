@@ -18,7 +18,7 @@
 ### Fun Facts
 
 - ⚡ Fun fact: Besides Tech, I enjoy reading books and creating podcasts.
-- 🎙️ Check out my podcasts at [wadeh-reminders.netlify.app](https://wadeh-rem.netlify.app).
+- 🎙️ Check out my podcasts at [wadeh-reminders.com](https://wadeh-rem.netlify.app).
 
 
   ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
